@@ -1,0 +1,21 @@
+{
+  "name": "css-project",
+  "version": "1.0.0",
+  "description": "Css Minifying Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "minify",
+    "tool",
+    "node",
+    "project"
+  ],
+  "author": "Mrittunjoy Das",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
